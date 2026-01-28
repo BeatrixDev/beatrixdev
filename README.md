@@ -1,18 +1,20 @@
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="450"/>
 </div>
 
 <h1 align="center">Hi, I'm Beatriz 👋</h1>
-<h3 align="center">Building my path in tech 💻✨</h3>
+<h3 align="center">Between coffee and codes 💻☕</h3>
 
 ---
 
 ### 🌸 Sobre mim
-Sou a **Beatriz** tenho 26 anos e estou em transição de carreira.
-Venho da área **contábil** e estou construindo minha carreira em **tecnologia**, unindo organização, lógica e automação.
+Sou a **Beatriz**, tenho 26 anos.  
+Venho da área **contábil/administrativa** e estou construindo minha carreira em **tecnologia**.
+
 
 🎓 **Cursando Análise e Desenvolvimento de Sistemas – PUCPR**  
-🚀 Focada em evolução constante e projetos práticos
+🚀 Focada em aprender cada dia mais.
 
 ---
 
@@ -30,7 +32,8 @@ Venho da área **contábil** e estou construindo minha carreira em **tecnologia*
 ### 📌 O que você encontra aqui
 - Projetos práticos  
 - Exercícios e estudos  
-- E principalmente minha evolução real na carreira tech  
+- Experimentos
+- E principalmente minha evolução
 
 ---
 
