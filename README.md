@@ -1,6 +1,5 @@
 <div align="center">
-[  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif
-)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </div>
 
 <h1 align="center">Hi, I'm Beatriz 👋</h1>
