@@ -42,10 +42,6 @@ Venho da área **contábil/administrativa** e estou construindo minha carreira e
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://www.instagram.com/biiacandido22" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
 ---
 
 ✨ *Em constante aprendizado. Um commit por vez.*
